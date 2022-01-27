@@ -1,0 +1,22 @@
+<img src="[Northeast_Map] (exported)" width="1042" height="888" border="0" usemap="#map" />
+
+<map name="map">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:Huy Le -->
+<area shape="rect" coords="430,274,476,303" href="stowe.wav" />
+<area shape="rect" coords="532,276,563,297" href="wildcat.wav" />
+<area shape="rect" coords="530,297,567,314" href="attitash.wav" />
+<area shape="rect" coords="517,348,545,373" href="mountsunapee.wav" />
+<area shape="rect" coords="543,385,567,411" href="crotched.wav" />
+<area shape="rect" coords="468,377,498,401" href="okemo.wav" />
+<area shape="rect" coords="455,412,489,434" href="mountsnow.wav" />
+<area shape="rect" coords="414,540,441,559" href="hunter.wav" />
+<area shape="rect" coords="305,581,340,604" href="jackfrost.wav" />
+<area shape="rect" coords="306,607,342,621" href="bigboulder.wav" />
+<area shape="rect" coords="292,695,324,720" href="roundtop.wav" />
+<area shape="rect" coords="213,724,238,749" href="whitetail.wav" />
+<area shape="rect" coords="248,721,275,747" href="liberty.wav" />
+</map>
