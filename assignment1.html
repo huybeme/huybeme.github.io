@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment 1</title>
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+
+    <style>
+        #bg_video {
+            position: fixed;
+            background-position: auto;
+            right: 0;
+            bottom: 0;
+            min-width: 100%;
+            min-height: 100%;
+        }
+
+        body {
+            background-color: black;
+            font-family: Arial, Helvetica, sans-serif;
+            color: white
+        }
+
+        h1 {
+            font-size: 50px;
+        }
+
+        h2 {
+            font-size: 25px;
+        }
+
+        #info {
+            position: fixed;
+            top: 20%;
+            left: 20%;
+        }
+
+        #menu {
+            position: fixed;
+            top: 10%;
+            left: 80%;
+        }
+    </style>
+
+</head>
+
+<body>
+    <!-- video source: https://assets.mixkit.co/videos/download/mixkit-flying-through-dark-matter-in-space-30563-medium.mp4 -->
+    <video autoplay muted loop id="bg_video">
+        <source src="media/background.mp4" type="video/mp4">
+    </video>
+
+    <!-- <main class="container"> -->
+    <!-- <div class="row"> -->
+    <div class="col-lg" id="info">
+        <h1>Huy Le</h1>
+        <h2>Here's my Homepage</h2>
+    </div>
+
+    <div class="col-lg" id="menu">
+        <ul class="fa-ul">
+            <li><span class="fa-li"><i class="fas fa-biohazard"></i></span>About Me</li>
+            <li><span class="fa-li"><i class="fas fa-book-dead"></i></span>Resume</li>
+            <li><i class="fa-li fas fa-hat-wizard"></i>Hobbies</li>
+            <li><i class="fa-li fas fa-flask"></i>Work</li>
+        </ul>
+    </div>
+    <!-- </div> -->
+    <!-- </main> -->
+
+</body>
+
+</html>
